@@ -24,10 +24,8 @@ lib/
 │ ├── use-cases/
 │ └── entities/
 ├── infrastructure/
-│ ├── adapters/
 │ ├── api/
-│ ├── repositories/
-│ └── services/
+│ └── repositories/
 ├── presentation/
 │ ├── pages/
 │ └── widgets/
